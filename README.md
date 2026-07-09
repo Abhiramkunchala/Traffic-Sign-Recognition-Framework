@@ -8,9 +8,9 @@ Introduction
 
 Dataset
 	
-   Name: Traffic Sign Dataset Classification 
+  Name: Traffic Sign Dataset Classification 
 	
-   Link: https://www.kaggle.com/datasets/ahemateja19bec1025/traffic-sign-dataset-classification
+  Link: https://www.kaggle.com/datasets/ahemateja19bec1025/traffic-sign-dataset-classification
  
    Number of Classes: 58
 	 
@@ -18,31 +18,31 @@ Dataset
 
 Methods
 
-   Image preprocessing
+ 1  Image preprocessing
 
-   Data augmentation
+ 2  Data augmentation
 
-   CNN architecture
+ 3  CNN architecture
 	
-   Transfer learning approach (MobileNetV2)
+ 4  Transfer learning approach (MobileNetV2)
 	
-   Accuracy & loss analysis
+ 5  Accuracy & loss analysis
 
-   Confusion matrix
+ 6  Confusion matrix
 
-   Classification report
+7   Classification report
 
 Technology
 	
-   Programming Language: Python
+  1 Programming Language: Python
 
-   Deep Learning Libraries: TensorFlow/Keras
+  2 Deep Learning Libraries: TensorFlow/Keras
 
-   Mathematics Library: NumPy
+  3 Mathematics Library: NumPy
 
-   Visualization Libraries: Matplotlib
+  4 Visualization Libraries: Matplotlib
 
-   Evaluation Library: Scikit-learn
+  5 Evaluation Library: Scikit-learn
 
 Output
 
