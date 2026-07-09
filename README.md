@@ -8,13 +8,13 @@ Introduction
 
 Dataset
 	
- Name: Traffic Sign Dataset Classification 
+ 	Name: Traffic Sign Dataset Classification 
 	
- Link: https://www.kaggle.com/datasets/ahemateja19bec1025/traffic-sign-dataset-classification
+	 Link: https://www.kaggle.com/datasets/ahemateja19bec1025/traffic-sign-dataset-classification
  
- Number of Classes: 58
- 
- Image Format: RGB Images
+	 Number of Classes: 58
+	 
+	 Image Format: RGB Images
 
 Methods
 
